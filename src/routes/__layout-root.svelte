@@ -16,9 +16,7 @@
 </main>
 
 <footer>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <p>Copyright 2022 Ninja Gaming Guides</p>
+    <p>Copyright 2022 toftof</p>
 </footer>
 
 <style>
